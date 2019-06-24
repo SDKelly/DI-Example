@@ -1,0 +1,11 @@
+C:\Users\skelly\source\repos\Calculators\bin\Debug\netcoreapp2.1\Calculators.deps.json
+C:\Users\skelly\source\repos\Calculators\bin\Debug\netcoreapp2.1\Calculators.runtimeconfig.json
+C:\Users\skelly\source\repos\Calculators\bin\Debug\netcoreapp2.1\Calculators.runtimeconfig.dev.json
+C:\Users\skelly\source\repos\Calculators\bin\Debug\netcoreapp2.1\Calculators.dll
+C:\Users\skelly\source\repos\Calculators\bin\Debug\netcoreapp2.1\Calculators.pdb
+C:\Users\skelly\source\repos\Calculators\obj\Debug\netcoreapp2.1\Calculators.csprojAssemblyReference.cache
+C:\Users\skelly\source\repos\Calculators\obj\Debug\netcoreapp2.1\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\skelly\source\repos\Calculators\obj\Debug\netcoreapp2.1\Calculators.AssemblyInfoInputs.cache
+C:\Users\skelly\source\repos\Calculators\obj\Debug\netcoreapp2.1\Calculators.AssemblyInfo.cs
+C:\Users\skelly\source\repos\Calculators\obj\Debug\netcoreapp2.1\Calculators.dll
+C:\Users\skelly\source\repos\Calculators\obj\Debug\netcoreapp2.1\Calculators.pdb
